@@ -83,6 +83,24 @@ flutter run -d <device-id>
 # For iOS
 flutter run -d <device-id>
 ```
+## First Launch Experience 🎯
+
+The app comes pre-loaded with 6 sample sneakers to demonstrate functionality:
+- Air Jordan 4 Retro Fire Red
+- Nike Air Max Moto 2K Womens  
+- Air Jordan 1 Mid SE
+- Jordan Luka.77
+- Adidas Originals ZX750
+- New Balance 740
+
+Users can:
+- View these sample items
+- Add their own sneakers
+- Edit or delete any item
+- All data persists locally using Hive database
+
+**Note**: Sample data only appears on first launch when database is empty.
+
 
 ## Usage Guide 📖
 
